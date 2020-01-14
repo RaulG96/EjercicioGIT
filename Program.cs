@@ -10,7 +10,7 @@ namespace Ejercicio_GIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holiwis weon");
+            Console.WriteLine("Holiwis weon, antonio guapo");
             Console.ReadLine();
         }
     }
